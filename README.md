@@ -1,4 +1,4 @@
-# Operating-system-synchronization-problem
+# Operating-system-synchronization-process
 
 This is small project for synchronization  the processs on cpu by using mutex and semaphore and it's **C language based**.
 
